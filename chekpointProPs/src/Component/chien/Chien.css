@@ -1,0 +1,16 @@
+.card {
+  background: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.title {
+  color: aliceblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.title1 {
+  color: chocolate;
+  font-style: italic;
+  font-size: 30px;
+}

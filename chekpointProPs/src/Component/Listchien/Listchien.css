@@ -1,0 +1,13 @@
+.card {
+  margin: 10%;
+  margin-top: 10%;
+}
+.titre {
+  color: chocolate;
+  margin-top: 5%;
+  margin-left: 45%;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
